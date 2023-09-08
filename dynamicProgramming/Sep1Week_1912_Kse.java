@@ -3,10 +3,9 @@ package dynamicProgramming;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Step1Week_1912_Kse {
+public class Sep1Week_1912_Kse {
 
     // 연속합 최대 구하기
 

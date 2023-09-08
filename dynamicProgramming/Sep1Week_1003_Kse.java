@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Step1Week_1003_Kse {
+public class Sep1Week_1003_Kse {
 
     /**
      * @Variable T: test case
