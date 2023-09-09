@@ -1,9 +1,8 @@
 package dynamicProgramming;
 
-import java.util.*;
 import java.io.*;
 
-public class Step1Week_9095_Ssi {
+public class Sep1Week_9095_Ssi {
 
     static int[] dp;
     static int t;

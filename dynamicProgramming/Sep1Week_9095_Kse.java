@@ -2,7 +2,7 @@ package dynamicProgramming;
 
 import java.util.Scanner;
 
-public class Step1Week_9095_Kse {
+public class Sep1Week_9095_Kse {
 
     /**
      * 정수 n 이 주어졌을 때, n 을 1, 2, 3 의 합으로 나타내는 방법의 수를 구하기
