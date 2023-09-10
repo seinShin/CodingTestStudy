@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Step1Week_1541_Kse {
+public class Sep1Week_1541_Kse {
 
     /**
      * 괄호를 적절히 쳐서 식의 값을 최소로 만들기

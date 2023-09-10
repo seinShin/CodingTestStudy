@@ -4,9 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.StringTokenizer;
 
-public class Step1Week_2217_Kse {
+public class Sep1Week_2217_Kse {
 
     /**
      * k 개의 로프를 사용할 대 로프는 모두 고르게 w/k 만큼의 중량이 걸린다.
