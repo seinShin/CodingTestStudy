@@ -1,4 +1,4 @@
-package samsung;
+package samsung.java;
 
 import java.io.IOException;
 import java.util.Arrays;
