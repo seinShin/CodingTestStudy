@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Sep4Week_14235_Ssi {
+public class Oct2Week_14235_Ssi {
 
     static int n;
     static PriorityQueue<Integer> gift = new PriorityQueue<>(Collections.reverseOrder());
